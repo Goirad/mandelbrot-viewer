@@ -18,8 +18,8 @@ I/O : Half/Double size of image to print
  
 ### Samples
 
-![alt text](https://github.com/Goirad/mandelbrot-viewer/tree/master/samples/sample1.jpg "Sample 1")
+![Sample 1](https://github.com/Goirad/mandelbrot-viewer/tree/master/samples/sample1.jpg "Sample 1")
 
-![alt text](https://github.com/Goirad/mandelbrot-viewer/tree/master/samples/sample2.jpg "Sample 2")
+![Sample 2](https://github.com/Goirad/mandelbrot-viewer/tree/master/samples/sample2.jpg "Sample 2")
 
 Note, the program currently does not implement anti-aliasing, so the above images were created by generating very large images and then downsampling them in GIMP.
