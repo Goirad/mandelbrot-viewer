@@ -1,0 +1,11 @@
+[package]
+name = "sdl_test"
+version = "0.1.0"
+authors = ["Dario Gonzalez <goiradio1@gmail.com>"]
+
+[dependencies]
+sdl2 = "*"
+num = "*"
+image = "*"
+termion = "*"
+hsl = "*"
