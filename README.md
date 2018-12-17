@@ -11,7 +11,7 @@ To run, clone this repo and run
 
 Esc :          Quit  
 Num +/- : Zoom In/Out  
-Left Click : Recenter window
+Left Click : Recenter window  
 N/M : Half/Double number of iteration before escape  
 P : saves current window to fractal.png in crate directory  
 I/O : Half/Double size of image to print
